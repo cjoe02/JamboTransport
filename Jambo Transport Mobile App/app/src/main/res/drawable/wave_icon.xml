@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Top wave line -->
+    <path
+        android:pathData="M8,16 Q12,12 16,16 Q20,20 24,16 Q28,12 32,16 Q36,20 40,16"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Middle wave line -->
+    <path
+        android:pathData="M8,24 Q12,20 16,24 Q20,28 24,24 Q28,20 32,24 Q36,28 40,24"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Bottom wave line -->
+    <path
+        android:pathData="M8,32 Q12,28 16,32 Q20,36 24,32 Q28,28 32,32 Q36,36 40,32"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"/>
+</vector>

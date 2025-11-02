@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Marshall Islands Flag Colors -->
+    <color name="marshall_blue">#1B5583</color>
+    <color name="marshall_orange">#FF8B42</color>
+    <color name="marshall_blue_dark">#0D3A5C</color>
+    <color name="marshall_orange_light">#FFAA73</color>
+    
+    <!-- Standard Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="gray_dark">#424242</color>
+    
+    <!-- Flood Warning Colors -->
+    <color name="flood_warning">#FF3D00</color>
+    <color name="flood_minor">#FF9800</color>
+    <color name="flood_safe">#4CAF50</color>
+
+    <!-- Route Colors -->
+    <color name="route_red">#F44336</color>
+    <color name="route_green">#4CAF50</color>
+</resources>

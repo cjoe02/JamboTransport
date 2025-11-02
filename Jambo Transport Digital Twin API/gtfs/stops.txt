@@ -1,0 +1,18 @@
+stop_id,stop_name,stop_lat,stop_lon
+rm_alw,Alwal,7.124234,171.356106
+rm_lkn,Lokonmok,7.123838,171.359397
+rm_rcn,RCS North,7.122994,171.360882
+rm_rcs,RCS South,7.122318,171.361692
+rm_res,RES,7.121043,171.362946
+rm_mhn,MIHS North,7.119786,171.364358
+rm_mih,MIHS,7.118617,171.365009
+rm_mhs,MIHS South,7.11657,171.365814
+rm_utr,Utrikan,7.115459,171.366239
+rm_taf,Track and Field,7.111589,171.368419
+rm_mie,Mieco,7.110391,171.369723
+dud_dtn,Downtown Uliga,7.109348,171.371379
+rb_anm,Anmarwut,7.12533,171.358007
+rb_lkb,Lokonmok Back,7.125099,171.360498
+rb_rpn,Rita Protestant North,7.124492,171.36214
+rb_rps,Rita Protestant South,7.123609,171.363288
+rb_mbc,MBCA,7.122022,171.364516

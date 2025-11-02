@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Majuro Transit</string>
+    <string name="flood_info">Flood Information</string>
+    <string name="route_info">Route Information</string>
+    <string name="flood_status">Flood Status</string>
+    <string name="active_buses">Active Buses</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Bus body -->
+    <path
+        android:fillColor="@color/marshall_blue"
+        android:pathData="M4,16c0,0.88 0.39,1.67 1,2.22V20c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1h8v1c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1.78c0.61,-0.55 1,-1.34 1,-2.22V6c0,-3.5 -3.58,-4 -8,-4s-8,0.5 -8,4V16z"/>
+    
+    <!-- Windows -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M6.5,5h11c0.28,0 0.5,0.22 0.5,0.5v3c0,0.28 -0.22,0.5 -0.5,0.5h-11C6.22,9 6,8.78 6,8.5v-3C6,5.22 6.22,5 6.5,5z"/>
+    
+    <!-- Front wheel -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M7.5,14a1.5,1.5 0,1 1,0 3a1.5,1.5 0,1 1,0 -3z"/>
+    
+    <!-- Rear wheel -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M16.5,14a1.5,1.5 0,1 1,0 3a1.5,1.5 0,1 1,0 -3z"/>
+    
+    <!-- Door -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M10,11h4v3h-4z"
+        android:fillAlpha="0.7"/>
+</vector>
